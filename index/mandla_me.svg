@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="mandla_me.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3003">
+      <stop
+         style="stop-color:#800080;stop-opacity:0.69503546;"
+         offset="0"
+         id="stop3005" />
+      <stop
+         style="stop-color:#800080;stop-opacity:1;"
+         offset="1"
+         id="stop3007" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3003"
+       id="radialGradient3009"
+       cx="485.18335"
+       cy="378.38727"
+       fx="485.18335"
+       fy="378.38727"
+       r="527.0097"
+       gradientTransform="matrix(-0.94746722,-0.00694434,0.00600188,-0.8179481,959.57505,674.13709)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       r="527.01245"
+       fy="372.04724"
+       fx="525.70471"
+       cy="372.04724"
+       cx="525.70471"
+       gradientTransform="matrix(1,0,0,0.70595532,0,109.39851)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3923"
+       xlink:href="#linearGradient3864"
+       inkscape:collect="always" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.70595532,0,109.39851)"
+       r="527.01245"
+       fy="372.04724"
+       fx="525.70471"
+       cy="372.04724"
+       cx="525.70471"
+       id="radialGradient3870"
+       xlink:href="#linearGradient3864"
+       inkscape:collect="always" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Ridged border with inner bevel"
+       inkscape:menu="Bevels"
+       inkscape:label="Ridged border"
+       id="filter5749">
+      <feMorphology
+         result="result91"
+         in="SourceAlpha"
+         radius="4.3"
+         id="feMorphology5751" />
+      <feComposite
+         in="SourceGraphic"
+         operator="out"
+         id="feComposite5753"
+         in2="result91" />
+      <feGaussianBlur
+         stdDeviation="1.2"
+         result="result0"
+         id="feGaussianBlur5755" />
+      <feDiffuseLighting
+         result="result92"
+         diffuseConstant="1"
+         id="feDiffuseLighting5757">
+        <feDistantLight
+           azimuth="225"
+           elevation="66"
+           id="feDistantLight5759" />
+      </feDiffuseLighting>
+      <feBlend
+         result="result93"
+         mode="multiply"
+         id="feBlend5761"
+         in2="SourceGraphic" />
+      <feComposite
+         operator="in"
+         id="feComposite5763"
+         in2="SourceAlpha" />
+    </filter>
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="2"
+       copytype="single_stretched"
+       pattern="m 24.975608,32.251719 0,10 10,-5 z"
+       is_visible="true"
+       id="path-effect4163"
+       effect="skeletal" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4161"
+       effect="spiro" />
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="2"
+       copytype="single_stretched"
+       pattern="m 24.975608,32.251719 0,10 10,-5 z"
+       is_visible="true"
+       id="path-effect3841-1"
+       effect="skeletal" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3839-9"
+       effect="spiro" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3796"
+       effect="spiro" />
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="1"
+       copytype="single_stretched"
+       pattern="M 0,0 0,10 10,5 z"
+       is_visible="true"
+       id="path-effect3798"
+       effect="skeletal" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3815"
+       effect="spiro" />
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="1"
+       copytype="single_stretched"
+       pattern="M 0,0 0,10 10,5 z"
+       is_visible="true"
+       id="path-effect3817"
+       effect="skeletal" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect3839"
+       effect="spiro" />
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="2"
+       copytype="single_stretched"
+       pattern="m 24.975608,32.251719 0,10 10,-5 z"
+       is_visible="true"
+       id="path-effect3841"
+       effect="skeletal" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3845"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3847"
+       is_visible="true"
+       pattern="M 2,4 2,14 12,9 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3914"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3916"
+       is_visible="true"
+       pattern="M 4,4 4,14 14,9 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="1"
+       copytype="single_stretched"
+       pattern="M 0,5 10,10 10,0 z"
+       is_visible="true"
+       id="path-effect4375"
+       effect="skeletal" />
+    <linearGradient
+       id="linearGradient5397">
+      <stop
+         id="stop5399"
+         offset="0"
+         style="stop-color:#fcfdc2;stop-opacity:0.43434343;" />
+      <stop
+         id="stop5401"
+         offset="1"
+         style="stop-color:#a7e44c;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5405">
+      <stop
+         id="stop5407"
+         offset="0"
+         style="stop-color:#4400aa;stop-opacity:1;" />
+      <stop
+         id="stop5409"
+         offset="1"
+         style="stop-color:#4400aa;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3864">
+      <stop
+         id="stop3866"
+         offset="0"
+         style="stop-color:#e22200;stop-opacity:0.11442786;" />
+      <stop
+         id="stop3868"
+         offset="1"
+         style="stop-color:#f500f9;stop-opacity:0.54228854;" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter5019"
+       x="-0.013443297"
+       width="1.0268866"
+       y="-0.11177157"
+       height="1.2235431">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.7004013"
+         id="feGaussianBlur5021" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.41659251"
+     inkscape:cx="507.46896"
+     inkscape:cy="299.67706"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-grids="false"
+     inkscape:window-width="764"
+     inkscape:window-height="780"
+     inkscape:window-x="0"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5027"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#002255;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
+       x="507.12256"
+       y="616.50195"
+       id="text5192"><tspan
+         sodipodi:role="line"
+         id="tspan5194"
+         x="507.12256"
+         y="616.50195"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#002255;font-family:'always  forever';-inkscape-font-specification:'always  forever Bold';fill-opacity:1">I am the brother of Thamsanqa Mbuli,</tspan><tspan
+         sodipodi:role="line"
+         x="507.12256"
+         y="676.50195"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#002255;font-family:'always  forever';-inkscape-font-specification:'always  forever Bold';fill-opacity:1"
+         id="tspan5196">This is my website</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="site">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#002255;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Caviar Dreams;-inkscape-font-specification:Caviar Dreams"
+       x="565.69348"
+       y="217.08476"
+       id="text3012"><tspan
+         sodipodi:role="line"
+         id="tspan3014"
+         x="565.69348"
+         y="217.08476"
+         style="font-size:48px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#002255;fill-opacity:1;font-family:Coneria Script Demo;-inkscape-font-specification:Coneria Script Demo Bold Italic">Leonard Mandla Mbuli</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Code Light;-inkscape-font-specification:Code Light"
+       x="582.02496"
+       y="165.70959"
+       id="text3016"><tspan
+         sodipodi:role="line"
+         id="tspan3018"
+         x="582.02496"
+         y="165.70959"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#aa0000;font-family:ChunkFive;-inkscape-font-specification:ChunkFive">LUNAMYSTRY</tspan></text>
+    <g
+       id="layer2-9"
+       inkscape:label="background"
+       style="fill:#002255;display:inline"
+       transform="matrix(0.34571852,0,0,0.34571852,110.29106,88.920242)">
+      <rect
+         style="fill:#002255;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="rect3098"
+         width="341.94846"
+         height="341.94846"
+         x="224.63489"
+         y="60.993443"
+         rx="6.1902876"
+         ry="5.6052833" />
+    </g>
+    <g
+       inkscape:label="logo"
+       id="layer1-0"
+       transform="matrix(0.41356993,0,0,0.41356993,71.847581,-65.91018)"
+       style="fill:#f9f9f9;display:inline">
+      <g
+         id="g3072"
+         transform="matrix(0.91765757,0,0,0.91765757,52.404573,63.230278)"
+         style="fill:#f9f9f9">
+        <g
+           style="fill:#f9f9f9;fill-opacity:1"
+           transform="matrix(0.57365939,0,0,0.57365939,307.21469,372.30892)"
+           id="g3063">
+          <path
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             d="m 412.90922,506.26252 -18.97778,-6.31218 c -6.27168,19.85387 -19.68031,37.75373 -37.17366,49.4237 -17.47619,11.69644 -39.32032,17.34281 -60.47778,15.50722 -2e-5,-10e-6 -3e-5,-10e-6 -4e-5,-10e-6 -21.16029,-1.8073 -41.92295,-11.12863 -57.44662,-25.92431 0,-10e-6 0,-10e-6 -1e-5,-10e-6 -15.54141,-14.77758 -26.01755,-35.20387 -28.92236,-56.66163 -2.04443,-14.78661 -0.46706,-30.17345 3.49675,-44.9587 0,-10e-6 0,-10e-6 10e-6,-2e-5 4.02591,-14.9721 10.51488,-29.36924 18.43247,-42.99628 15.76621,-27.16594 37.02823,-51.33798 56.3757,-77.18627 20.49424,-27.34905 38.63393,-56.60446 52.52637,-87.84082 13.78823,-30.99369 23.24571,-64.07105 25.92176,-97.82017 1.11478,-14.07171 1.06015,-28.25048 -0.5399,-42.26002 -2.38304,-20.854769 -8.21123,-41.265715 -17.14859,-60.160144 8.44871,19.117927 13.71443,39.5906 15.54479,60.322634 1.23044,13.92775 0.91842,27.96012 -0.5399,41.85059 -3.49478,33.30999 -13.69416,65.66825 -28.04599,95.85577 -14.47319,30.43529 -33.09641,58.77181 -53.98832,85.2297 -19.76559,25.00337 -41.77879,48.8169 -59.01094,76.6676 -8.66738,14.02429 -15.92008,29.11515 -20.7117,45.15771 -4.75753,15.89105 -6.89074,32.82359 -5.07537,49.69452 2.69904,24.50424 13.89425,47.95979 31.44261,65.57011 1e-5,10e-6 2e-5,2e-5 3e-5,3e-5 17.56608,17.59216 41.13969,28.9965 66.05092,31.80651 2e-5,0 3e-5,10e-6 5e-5,10e-6 24.9141,2.7817 50.63746,-3.08701 72.02022,-16.56775 21.36561,-13.50721 37.90554,-34.31584 46.24728,-58.39779 z"
+             id="path3837"
+             inkscape:path-effect="#path-effect3839;#path-effect3841"
+             inkscape:original-d="m 403.42033,503.10643 c 0,0 -153.3656,23.15885 -199.89079,-20.03308 -47.36931,-43.97558 116.06875,-219.97497 81.55147,-168.33055 -99.7945,149.31154 73.95403,-134.49814 80.24122,-183.37323 5.37566,-41.789095 10.0595,29.55238 0,-42.055305 -10.0595,-71.607686 -16.34669,-60.241389 -16.34669,-60.241389"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cssssc" />
+        </g>
+        <rect
+           transform="matrix(1,0,-0.34201889,0.93969308,0,0)"
+           rx="2.6832345"
+           ry="2.855437"
+           y="474.7731"
+           x="635.86115"
+           height="114.21748"
+           width="21.465876"
+           id="rect3994"
+           style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <rect
+           transform="matrix(1,0,-0.34201889,0.93969308,0,0)"
+           style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect4000"
+           width="21.465876"
+           height="114.21748"
+           x="668.94788"
+           y="474.7731"
+           ry="2.855437"
+           rx="2.6832345" />
+        <rect
+           transform="matrix(1,0,-0.34201889,0.93969308,0,0)"
+           rx="2.6832345"
+           ry="2.855437"
+           y="474.7731"
+           x="702.03455"
+           height="228.43497"
+           width="21.465876"
+           id="rect4002"
+           style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      </g>
+      <g
+         style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+         id="text4382"
+         transform="translate(580.90658,-159.04839)" />
+      <g
+         id="g4427"
+         transform="translate(253.56281,-2.8578127e-6)"
+         style="fill:#f9f9f9">
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4429" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4438" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4447" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4456" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4465" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4474" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4483" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4492" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4501" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4510" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4519" />
+      </g>
+      <g
+         id="g4528"
+         transform="translate(253.56281,-2.8578127e-6)"
+         style="fill:#f9f9f9">
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4530" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4539" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4548" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4557" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4566" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4575" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4584" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4593" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4602" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4611" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4620" />
+      </g>
+      <g
+         id="g4629"
+         transform="translate(253.56281,-2.8578127e-6)"
+         style="fill:#f9f9f9">
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4631" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4640" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4649" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4658" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4667" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4676" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4685" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4694" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4703" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4712" />
+        <g
+           style="font-size:72px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.09090899;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans"
+           id="text4721" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3890"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Code Light;-inkscape-font-specification:Code Light"><flowRegion
+           id="flowRegion3892"><rect
+             id="rect3894"
+             width="75.876183"
+             height="75.876183"
+             x="318.09631"
+             y="466.85458"
+             style="fill:#f9f9f9" /></flowRegion><flowPara
+           id="flowPara3896" /></flowRoot>    </g>
+    <rect
+       rx="9.9179621"
+       ry="11.38728"
+       y="430.87173"
+       x="299.13889"
+       height="142.52464"
+       width="142.52464"
+       id="rect5117"
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#800080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect5119"
+       width="142.52464"
+       height="142.52464"
+       x="145.83917"
+       y="430.87173"
+       ry="11.38728"
+       rx="9.9179621" />
+    <rect
+       rx="9.9179621"
+       ry="11.38728"
+       y="430.87173"
+       x="605.73828"
+       height="142.52464"
+       width="142.52464"
+       id="rect5121"
+       style="fill:#aa0000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect5123"
+       width="142.52464"
+       height="142.52464"
+       x="452.43857"
+       y="430.87173"
+       ry="11.38728"
+       rx="9.9179621" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:'always  forever';-inkscape-font-specification:'always  forever Bold'"
+       x="372.2634"
+       y="510.68314"
+       id="text5259"><tspan
+         sodipodi:role="line"
+         id="tspan5261"
+         x="372.2634"
+         y="510.68314">Github</tspan></text>
+    <rect
+       style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect5279"
+       width="142.52464"
+       height="142.52464"
+       x="764.83557"
+       y="427.55722"
+       ry="11.38728"
+       rx="9.9179621" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:'always  forever';-inkscape-font-specification:'always  forever Bold'"
+       x="218.53751"
+       y="510.2991"
+       id="text5255"><tspan
+         sodipodi:role="line"
+         id="tspan5257"
+         x="218.53751"
+         y="510.2991">Blog</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:'always  forever';-inkscape-font-specification:'always  forever Bold'"
+       x="525.60712"
+       y="510.97113"
+       id="text5263"><tspan
+         sodipodi:role="line"
+         id="tspan5265"
+         x="525.60712"
+         y="510.97113">Twitter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:'always  forever';-inkscape-font-specification:'always  forever Bold'"
+       x="678.16028"
+       y="509.29111"
+       id="text5267"><tspan
+         sodipodi:role="line"
+         id="tspan5269"
+         x="678.16028"
+         y="509.29111">Quora</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:'always  forever';-inkscape-font-specification:'always  forever Bold'"
+       x="837.93951"
+       y="507.36859"
+       id="text5271"><tspan
+         sodipodi:role="line"
+         id="tspan5273"
+         x="837.93951"
+         y="507.36859">Bitbucket</tspan></text>
+  </g>
+</svg>

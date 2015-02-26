@@ -1,0 +1,172 @@
+html, body {
+    height: 100%;
+}
+body {
+    background-color: purple;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin: 0px auto 0px auto;
+    font-size: 16px;
+    color: #222222;
+    line-height: 1.5;
+}
+@media (min-width: 990px) {
+  body {
+    font-size: 18px;
+  }
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0 0 10px;
+    font-weight: 600;
+    line-height: 1.25;
+    text-rendering: optimizeLegibility;
+}
+a {
+    font-weight: 600;
+    color: #222;
+    text-decoration: none;
+}
+a:hover,
+a:focus {
+    text-decoration: underline;
+}
+.page-container {
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.75) inset;
+    min-height: 100%;
+}
+.container {
+    width: 760px;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+.container:before, .container:after {
+    content: "";
+    display: table;
+    line-height: 0;
+}
+.container:after {
+    clear: both;
+}
+.container:before, .container:after {
+    content: "";
+    display: table;
+    line-height: 0;
+}
+.post-date {
+    margin: -10px 0 10px;
+    color: #9a9a9a;
+}
+header h1 {
+    font-size: 4em;
+    margin: 0;
+    margin-bottom: 30px;
+    padding: 12px 0px 12px 0px;
+}
+header {
+    color: #FFFFFF;
+    text-align: center;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.5);
+    font-family: "Exo 2.0","Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 1.42857;
+    padding-top: 10%;
+}
+header #nav {
+    text-align: right;
+}
+header #nav a {
+    color: rgba(255,255,255, 0.9);
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+header #nav > a:hover, 
+header #nav > a:focus {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.5);
+}
+div#logo a {
+    font-size: 1.4em;
+    font-weight: bold;
+    float: left;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #000;
+}
+section.content {
+    background: none repeat scroll 0 0 rgba(255,255,255, 0.8);
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0 , 0.6);
+    border-radius: 5px;
+    padding: 20px;
+}
+footer {
+    margin-top: 3%;
+    padding: 2%;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    font-family: "Exo 2.0","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+footer #hakyll {
+    font-size: 0.8em;
+    font-weight: bold;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+footer #hakyll a {
+    color: #CCCCCC;
+    text-decoration: none;
+    border: 1px solid #CCCCCC;
+    border-radius: 4px;
+    padding: 2px;
+}
+footer #hakyll a:hover {
+    border: 1px solid #CCCCCC;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    color: black;
+}
+h1 {
+    font-size: 30px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    font-family: "ChunkFive","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: normal;
+}
+h2 {
+    font-size: 20px;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.home_image {
+    width: 300px;
+    float: right; 
+    margin: 10px;
+}
+.clearfix {
+    clear: both;
+}
+pre.sourceCode { 
+    font-size: 0.8em;
+    font-family: monospace,monospace;
+    background-color: #F8F8FF;
+    border: 1px solid #CCCCCC;
+    border-radius: 4px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.5) inset;
+    padding: 1.2em;
+}
+table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode, table.sourceCode pre
+   { margin: 0; padding: 0; border: 0; vertical-align: baseline; border: none; }
+td.lineNumbers { border-right: 1px solid #AAAAAA; text-align: right; color: #AAAAAA; padding-right: 5px; padding-left: 5px; }
+td.sourceCode { padding-left: 5px; }
+.sourceCode span.kw { color: #007020; font-weight: bold; }
+.sourceCode span.dt { color: #902000; }
+.sourceCode span.dv { color: #40a070; }
+.sourceCode span.bn { color: #40a070; }
+.sourceCode span.fl { color: #40a070; }
+.sourceCode span.ch { color: #4070a0; }
+.sourceCode span.st { color: #4070a0; }
+.sourceCode span.co { color: #60a0b0; font-style: italic; }
+.sourceCode span.ot { color: #007020; }
+.sourceCode span.al { color: red; font-weight: bold; }
+.sourceCode span.fu { color: #06287e; }
+.sourceCode span.re { }
+.sourceCode span.er { color: red; font-weight: bold; }
