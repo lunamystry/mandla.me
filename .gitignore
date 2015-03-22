@@ -4,6 +4,7 @@
 _site
 _cache
 blog/site
+config.ini
 
 ### https://raw.github.com/github/gitignore/bab15e82cb861b39216d0ab7ec0b3950bd73313e/Python.gitignore
 
