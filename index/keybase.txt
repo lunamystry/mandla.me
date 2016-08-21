@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/lunamystry
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mandla.me
+  * I am lunamystry (https://keybase.io/lunamystry) on keybase.
+  * I have a public key with fingerprint 2375 91B6 122D E79F D370  8C00 31A0 16C5 5016 5CD1
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019ebf7c327455945918a0a71d92e09c291e28a784bedb59bdd5e75edc566574820a",
+            "fingerprint": "237591b6122de79fd3708c0031a016c550165cd1",
+            "host": "keybase.io",
+            "key_id": "31a016c550165cd1",
+            "kid": "01019ebf7c327455945918a0a71d92e09c291e28a784bedb59bdd5e75edc566574820a",
+            "uid": "7cf97b74f5fe39e9362421ab0fe1ab19",
+            "username": "lunamystry"
+        },
+        "service": {
+            "hostname": "mandla.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1471115414,
+    "expire_in": 157680000,
+    "prev": "a2bc17c4a6f83763f3895029cfbbdc57af43e31fa5b5b624d1c7f34f1b7bc85b",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMIpAnicrZJdSBRRFMd3NRUtIx+iwKScsIfYtrkzc+fObF8iGRUpmyQVCMvcmTu7
+w64z68zstltKQYEgQUWlPYQYRT7YJ4QilZj0RR8KQaVEFNSD9kVFkWCx3ZF667H7
+cO65h//53XMO53Zpvq/EfzF+oPDJhukO/8NbnSnfzsvJzn0MtrQsE9rHxMnsRRIa
+cdxI3NCYEMMCFsgE60jlOSRAKAtQBpLCKghoMkdYWeVkQDhJQZKAiYahjDUNEgSJ
+pkJRhEiQOFZhAoxumFFiJ23DdCmW4xHlYBFwnEaQrGs8YiWVZXmgsEBUIaQWqhqg
+iTHL8TJocVhxSNCwaIw+IrPl/UP/n+tOzeKQqssII0GHOuFlIvMiJ3BAwaxOqAWy
+J3SIbSrNhKoTKepkHdfOMm0BhsbThkq80Xq9/NE0K6aWUILUDzBJ23It1UrQcMx1
+kyEvy80mPdkegiN/ABFsmBqdIk1IE9sxLJMJAapUXcMjAgEBAKAAhABDMknDJhHD
+U0AkSiw93jckTZEKh1WAVEERdYlHIq/zkgxZTlZ1jGnzSNEFnvBAVyCGmPapARXp
+vKADjLAqQcx4LbWYFmVTqKtEKdMxoqbipmzCtI0MN83x+Ut8hQV53nr5SooX/F26
+yXRRjhRZj0xwde7TX/7t7U/KHkzlKo58Pe5+rny8LG/Nu1Vy9+utOLyyqOpb9nbi
+/HRrv9X3aknB91poTy8daOk/Uf7R/XKw8vqG9NHeXG14sm9wj9O4emYMNgav1V9a
+fA8uKd6b2dK6bMWi8RPZn0V1TcVdPD75woy1noo933xLQOGx0h1VVcGGnnnnuoaO
+jO4cn/NpdHlmau3L+f0r7n6bqR9bWDYx9ON9+YXom88V+wvPxLvvrgOntx+/cvTk
+pt3Jipv77/RWHhptqqkuzZ192+BMTT0svzn3Q2Qwr7p9eEv+4Y0DA6StQ245M3Es
+s/5s3Y3IzMiuZ13bFvZ0jtwfL5PCNdxvDeo/zw==
+=majO
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lunamystry
+
+==================================================================
