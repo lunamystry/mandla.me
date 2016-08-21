@@ -1,14 +1,14 @@
-@import 'https://fonts.googleapis.com/css?family=Baloo|Share+Tech+Mono';
-html, body {
-  height: 100%;
-}
+@import 'https://fonts.googleapis.com/css?family=Baloo|Dosis';
 body {
   background-color: purple;
-  font-family: 'Share Tech Mono', monospace;
-  margin: 0 auto;
-  font-size: 16px;
+  background-size: cover;
+  box-shadow: 0 0 100px rgba(0, 0, 0, 0.75) inset;
   color: #222222;
+  font-family: 'Dosis', monospace;
+  font-size: 16px;
   line-height: 1.5;
+  margin: 0 auto;
+  min-height: 100%;
 }
 @media (min-width: 990px) {
   body {
@@ -17,20 +17,9 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 10px;
-  font-weight: 600;
-  line-height: 1.25;
   text-rendering: optimizeLegibility;
-}
-h1 {
-  font-size: 30px;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
   font-family: 'Baloo', cursive;
-  font-weight: normal;
-}
-h2 {
-  font-size: 20px;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 a {
   font-weight: 600;
@@ -40,10 +29,6 @@ a {
 a:hover,
 a:focus {
   text-decoration: underline;
-}
-.page-container {
-  box-shadow: 0 0 100px rgba(0, 0, 0, 0.75) inset;
-  min-height: 100%;
 }
 .container {
   width: 760px;
@@ -79,7 +64,6 @@ header {
   color: #FFFFFF;
   text-align: center;
   text-shadow: 0 2px 3px rgba(0, 0, 0, 0.5);
-  font-family: "Exo 2.0","Helvetica Neue",Helvetica,Arial,sans-serif;
   line-height: 1.42857;
   padding-top: 10%;
 }
@@ -118,24 +102,6 @@ footer {
   color: white;
   text-align: center;
   font-size: 12px;
-  font-family: "Exo 2.0","Helvetica Neue",Helvetica,Arial,sans-serif;
-}
-footer #hakyll {
-  font-size: 0.8em;
-  font-weight: bold;
-  text-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
-}
-footer #hakyll a {
-  color: #CCCCCC;
-  text-decoration: none;
-  border: 1px solid #CCCCCC;
-  border-radius: 4px;
-  padding: 2px;
-}
-footer #hakyll a:hover {
-  border: 1px solid #CCCCCC;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
-  color: black;
 }
 .home_image {
   width: 300px;
@@ -144,6 +110,23 @@ footer #hakyll a:hover {
 }
 .clearfix {
   clear: both;
+}
+#hakyll {
+  font-size: 0.8em;
+  font-weight: bold;
+  text-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+#hakyll a {
+  color: #CCCCCC;
+  text-decoration: none;
+  border: 1px solid #CCCCCC;
+  border-radius: 4px;
+  padding: 2px;
+}
+#hakyll a:hover {
+  border: 1px solid #CCCCCC;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+  color: black;
 }
 pre.sourceCode { 
   font-size: 0.8em;
