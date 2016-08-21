@@ -46,20 +46,20 @@ def test_ftp():
 
 
 @task
-def deploy():
+def deploy(filename):
     config = get_config()
 
     ftp = connect(config)
     remote_root = config.get("directories", "remote_root")
-    local_root = config.get("directories", "local_root")
+    local_root = os.path.dirname(os.path.abspath(__file__))
 
     ftp.cwd(remote_root)
-    f = os.path.join(local_root, "index", "test.txt")
+    f = os.path.join(local_root, filename)
     split = os.path.split(f)
 
-    print(blue('STOR %s' % f), end="")
+    print(blue('STOR %s' % f), end=" ")
     print(blue(" -> "), end="")
-    print(os.path.join(remote_root, split[1]), end="")
+    print(os.path.join(remote_root, split[1]), end=" ")
 
     try:
        ftp.storlines("STOR %s" % split[1], open(f, "r"))
